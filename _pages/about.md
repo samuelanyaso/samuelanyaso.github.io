@@ -12,6 +12,6 @@ I am a Ph.D. student in the [Department of Biostatistics](http://biostat.ufl.edu
 
 So far, my research includes survival analysis and multistate models, clustered data, informative cluster size, statistical process control, analysis of large sequence data, and metagenomics. Also, I have been fortunate to collaborate with researchers from various disciplines including physical therapy, brain rehabilitation science, hematology, and oncology.
 
-As part of my training, I work as a biostatistician in the Brain Rehabilitation Research Center (BRRC) at the NF/SG VHS Malcolm Randall VA Medical Center, Gainesville. In this role, I assist and provide statistical consultation for several trials and studies conducted at the BRRC.
+As part of my training, I work as a biostatistician in the Brain Rehabilitation Research Center (BRRC) at the [NF/SG VHS Malcolm Randall VA Medical Center] (https://www.va.gov/north-florida-health-care/locations/malcom-randall-department-of-veterans-affairs-medical-center/), Gainesville. In this role, I assist and provide statistical consultation for several trials and studies conducted at the BRRC.
 
 You can contact me at sanyasosamuel at ufl dot edu.
