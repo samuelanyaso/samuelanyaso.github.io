@@ -3,11 +3,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Presentations"
+- title: "Teaching"
+    url: /teaching/ 
+    
+- title: "Presentations"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+- title: "Software"
+    url: /software/  
     
-  - title: "CV"
+- title: "CV"
     url: /cv/
