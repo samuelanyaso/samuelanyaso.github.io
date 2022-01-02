@@ -1,7 +1,7 @@
 ---
 permalink: /software/
 title: "Software"
-author_profile: false
+author_profile: true
 ---
 
 ### DyAEWMA
