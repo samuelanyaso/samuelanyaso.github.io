@@ -22,4 +22,4 @@ author_profile: true
 
 ### Guest Lectures (University of Florida)
 
-- Large Sample Theory {1 class session} (Spring 2020)
+- Large Sample Theory: PHC 7066 {1 class session} (Spring 2020)
