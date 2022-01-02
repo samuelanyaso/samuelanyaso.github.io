@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+excerpt: "Research"
+permalink: /Research/
 author_profile: true
 ---
-
-### Research
 
 - **Anyaso-Samuel, S.**, Sachdeva, A. , Subharup Guha, S., and Datta, S. Metagenomic geolocation prediction using an adaptive ensemble classifier. *Frontiers in Genetics*, doi:10.3389/fgene.2021.642282 (2021).
  
