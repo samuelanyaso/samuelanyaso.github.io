@@ -15,7 +15,7 @@ author_profile: true
 - Data Visualization in the Health Sciences: PHC 6937 (Spring 2020)
 - Introduction to Biostatistical Theory: PHC 6092 (Fall 2019, 2020)
 
-### Course Instructor (Biose State University
+### Course Instructor (Biose State University)
 
 - Pre-Calculus: MATH 149 (Spring 2019)
 - Intermediate Algebra: MATH 108 {2 Sections} (Fall 2017, 2018)
