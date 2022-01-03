@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in the [Department of Biostatistics](http://biostat.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). Currently, I am being advised by [Dr. Somnath Datta](https://www.somnathdatta.org/). Before joining the program at UF, I completed my Masters degree in [Mathematics](https://www.boisestate.edu/math/) at [Boise State University](https://www.boisestate.edu/) under the supervision of [Dr. Partha Mukherjee](https://www.isical.ac.in/~psm/).
 
-My research includes developing statistical methods for univariate and multivariate time-to-event data, clustered data, informative cluster size, statistical process control, analysis of large sequence data, and metagenomics. Also, I have been fortunate to collaborate with researchers from various disciplines including, physical therapy, brain rehabilitation science, hematology, and oncology.
+My research interests are in developing statistical methods for univariate and multivariate time-to-event data, clustered data, informative cluster size, statistical process control, analysis of large sequence data, and metagenomics. Also, I have been fortunate to collaborate with researchers from various disciplines including, physical therapy, brain rehabilitation science, hematology, and oncology.
 
 As part of my training, I work as a biostatistician in the Brain Rehabilitation Research Center (BRRC) at the [NF/SG VHS Malcolm Randall VA Medical Center](https://www.va.gov/north-florida-health-care/locations/malcom-randall-department-of-veterans-affairs-medical-center/), Gainesville. In this role, I assist and provide statistical consultation for several trials and studies conducted at the BRRC.
 
