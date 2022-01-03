@@ -4,13 +4,10 @@ main:
     url: /research/
 
 - title: "Teaching"
-    url: /teaching/ 
-    
-- title: "Presentations"
-    url: /talks/    
+    url: /teaching/
 
-- title: "Software"
-    url: /software/  
-    
+- title: "Presentations"
+    url: /talks/
+
 - title: "CV"
     url: /cv/
