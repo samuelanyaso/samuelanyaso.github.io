@@ -7,11 +7,11 @@ author_profile: true
 
 ### Publications
 
-- **Anyaso-Samuel, S.**, Sachdeva, A. , Subharup Guha, S., and Datta, S. Metagenomic geolocation prediction using an adaptive ensemble classifier. *Frontiers in Genetics*, doi:10.3389/fgene.2021.642282 (2021).
+- **Anyaso-Samuel, S.**, Sachdeva, A. , Subharup Guha, S., and Datta, S. Metagenomic geolocation prediction using an adaptive ensemble classifier. *Frontiers in Genetics*, [doi:10.3389/fgene.2021.642282](https://www.frontiersin.org/articles/10.3389/fgene.2021.642282/full) (2021).
  
 - **Anyaso-Samuel, S.**, Sachdeva, A. , Subharup Guha, S., and Datta, S. Bioinformatics preprocessing of microbiome data with an application to metagenomic forensics. In *Statistical Analysis of Microbiome Data*, Eds: S. Datta and S. Guha, Springer (2021).
 
-- **Anyaso-Samuel, S.**, and Datta, S. Adjusting for informative cluster size in pseudo-value based regression approaches with clustered time to event data. *Submitted*, arxiv.org/abs/2210.13410v1 (2022+).
+- **Anyaso-Samuel, S.**, and Datta, S. Adjusting for informative cluster size in pseudo-value based regression approaches with clustered time to event data. *Submitted*, [arxiv.org/abs/2210.13410v1](https://arxiv.org/abs/2210.13410v1) (2022+).
 
 ### Preprints and Theses
 
