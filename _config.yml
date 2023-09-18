@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Samuel Anyaso-Samuel"
   avatar           : "SamuelAnyasoSamuel_Photo.jpg"
-  bio              : "Graduate Student"
-  location         : "Gainesville, FL"
-  employer         : "University of Florida"
+  bio              : "Postdoctoral Fellow"
+  location         : "Rockville, MD"
+  employer         : "National Cancer Institute"
   pubmed           : 
   googlescholar    : 
-  email            : "sanyasosamuel@ufl.edu"
+  email            : "samuel.anyaso-samuel@nci.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "samuelanyaso"
   vine             :
   weibo            :
   xing             :
