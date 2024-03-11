@@ -26,6 +26,9 @@ author_profile: true
   
 ### Posters
 
+- "Pseudo-Value Regression of Clustered Current Status Data with Informative Cluster or Subcluster Sizes in a Multistate Model", *2023 Lifetime Data Science Conference*,  Raleigh, NC (May 2023).
+- "Pseudo-Value Regression of Clustered Current Status Data with Informative Cluster or Subcluster Sizes in a Multistate Model", *2023 Annual ASA Florida Chapter Meeting*,  Gainesville, FL (March 2023).
+- "Pseudo-Value Regression of Clustered Current Status Data with Informative Cluster or Subcluster Sizes in a Multistate Model", *ENAR 2023 Spring meeting*,  Nashville, TN (March 2023).
 - "Pseudo-value based regression for clustered time-to-event data when cluster size is informative", *International Chinese Statistical Association (ICSA) Applied Statistics Symposium*, (2022) Gainesville, FL.
 - "Pseudo-value based regression for clustered time-to-event data when cluster size is informative", *UF College of Medicine Research Day*, (2022) Gainesville, FL.
 - "EWMA Control Chart with a Dynamic Sampling Scheme", *Quality and Productivity Research Conference*, (2019) Washingtion D.C.
