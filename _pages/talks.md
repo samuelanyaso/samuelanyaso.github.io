@@ -5,15 +5,25 @@ title: "Presentations"
 author_profile: true
 ---
 
-### Technical talks
+### Seminars, Refereed and Invited talks
 
-- "Adjusting for Informative Cluster Size in Pseudo-Value-Based Regression Approaches with Clustered Time-to-Event Data", *Joint Statistical Meetings*, (2022) Washington DC. (Contributed talk)
-- "Pseudo-value based regression for clustered time-to-event data when cluster size is informative", *UF College of Public Health and Health Professions Research Day*, (2022) Gainesville, FL. (Contributed talk)
-- "Bioinformatics Pre-processing of Microbiome Data with an Application to Metagenomics Forensics", *Joint Statistical Meetings*, (2021) Virtual Conference. (Invited talk)
-- "Bioinformatics Pre-processing of Microbiome Data with an Application to Metagenomics Forensics", *UF College of Public Health and Health Professions Research Day*, (2021) Virtual Conference. (Contributed talk)
-- "Metagenomic Geolocation Prediction Using an Adaptive Ensemble Classifier", *28th Conference on Intelligent Systems for Molecular Biology*, (2020) Virtual Conference. (Contributed talk)
-- "Fuzzy Regression Intervals", *Department of Mathematics, Boise State University, Graduate Student Seminar* (2017).
+- "Regression analysis for clustered multistate current status data using the pseudo-value approach", *2023 Symposium on Data Science \& Statistics*,  St. Louis, MO (May 2023).
+- "Regression analysis of clustered time-to-event data when the cluster size is informative: a pseudo-value approach", *Department of Epidemiology and Biostatistics*, West Virginia University (March 203).
+- "Pseudo-value-based regression analysis of clustered multistate time-to-event data when the cluster size is informative", *Biostatistics Branch, National Cancer Institute* (March 2023).
+- "Regression analysis of clustered time-to-event data when the cluster size is informative", *Division of Computing, Analytics, and Mathematics, University of Missouri*, Kansas City, MO (February 2023).
+- "Regression analysis of clustered time-to-event data when the cluster size is informative", *UFSTAT Student Seminar Series*, Gainesville, FL (February 2023).
+- "Bioinformatics Pre-processing of Microbiome Data with an Application to Metagenomics Forensics", *2021 Joint Statistical Meetings*, Virtual Conference (August 2021).
+- "Metagenomic Geolocation Prediction Using an Adaptive Ensemble Classifier", *28th Conference on  Intelligent Systems for Molecular Biology*, Virtual Conference (July 2020).
+- "Fuzzy Regression Intervals", *Graduate Student Seminar, Department of Mathematics, Boise State University*, Boise, ID (December 2017).
 
+### Contributed talks
+
+- "Testing for Marginal Covariate Effect when the Subgroup Size Induced by the Covariate is Informative", *ENAR 2024 Spring meeting*,  Baltimore, MD (March 2024).
+- "Regression analysis of multistate current status data with informative cluster sizes: a pseudo-value approach", *UF PHHP Research Day 2023*, Gainesville, FL (February 2023).
+- "Adjusting for Informative Cluster Size in Pseudo-Value-Based Regression Approaches with Clustered Time-to-Event Data", *2022 Joint Statistical Meetings*, Washington DC (August 2022).
+- "Pseudo-value based regression for clustered time-to-event data when cluster size is informative", *UF PHHP Research Day 2022*, Virtual Conference (February 2022).
+- "Bioinformatics Pre-processing of Microbiome Data with an Application to Metagenomics Forensics", *UF PHHP Research Day 2021*, Virtual Conference (February 2021)
+  
 ### Posters
 
 - "Pseudo-value based regression for clustered time-to-event data when cluster size is informative", *International Chinese Statistical Association (ICSA) Applied Statistics Symposium*, (2022) Gainesville, FL.
