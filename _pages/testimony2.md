@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Testimony"
+permalink: /testimony2/
+author_profile: true
+---
+
 As you read through this page, I hope to share the joy and wonder I’ve found in God’s love and redemption—and perhaps inspire you to embrace that love for yourself.
 
 Have you ever been treated to a kindness you didn’t deserve? That feeling captures, in a small way, what salvation means for humanity. But why do we need salvation? Because each of us has fallen short of God’s standard.
