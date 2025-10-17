@@ -30,10 +30,10 @@ author_profile: true
 
 ### Short Courses
 
-- **Multistate models for studying the natural history of cancer** (Feb. 2025)
+- **Multistate models for studying the natural history of cancer** (Feb. 2025)  
   *Served as a co-instructor for the course delivered to staff and fellows within the Division of Epidemiology & Cancer Genetics at NCI, as part of a lecture series on statistical modeling in cancer epidemiology.*
   
-- **Introduction to Statistical Analysis using R** (Mar. 2025)
-*Co-taught high school and undergraduate students who participated in the "Fostering Excellence in Biostatistics" workshop at the 2025 ENAR Spring meeting.*
+- **Introduction to Statistical Analysis using R** (Mar. 2025)  
+  *Co-taught high school and undergraduate students who participated in the "Fostering Excellence in Biostatistics" workshop at the 2025 ENAR Spring meeting.*
 
 
