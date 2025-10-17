@@ -28,4 +28,12 @@ author_profile: true
 - Pre-Calculus: MATH 149 (Spring 2019)
 - Intermediate Algebra: MATH 108 {2 Sections} (Fall 2017, 2018)
 
+### Short Courses
+
+- **Multistate models for studying the natural history of cancer** (Feb. 2025)
+  *Served as a co-instructor for the course delivered to staff and fellows within the Division of Epidemiology & Cancer Genetics at NCI, as part of a lecture series on statistical modeling in cancer epidemiology.*
+  
+- **Introduction to Statistical Analysis using R** (Mar. 2025)
+*Co-taught high school and undergraduate students who participated in the "Fostering Excellence in Biostatistics" workshop at the 2025 ENAR Spring meeting.*
+
 
