@@ -23,7 +23,7 @@ author_profile: true
 
 - Large Sample Theory: PHC 7066 {2 class sessions} 
 
-### Course Instructor (Biose State University)
+### Course Instructor (Boise State University)
 
 - Pre-Calculus: MATH 149 (Spring 2019)
 - Intermediate Algebra: MATH 108 {2 Sections} (Fall 2017, 2018)
