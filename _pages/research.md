@@ -17,7 +17,7 @@ author_profile: true
 - **Anyaso-Samuel S.**, Sachdeva A., Guha S., and Datta S. Bioinformatics preprocessing of microbiome data with an application to metagenomic forensics. In *Statistical Analysis of Microbiome Data*, Eds: S. Datta and S. Guha, Springer (pp. 45–78), (2021).
 - **Anyaso-Samuel S.**, Sachdeva A., Guha S., and Datta S. Metagenomic geolocation prediction using an adaptive ensemble classifier. *Frontiers in Genetics*, 12:642282, (2021). [doi.org/10.3389/fgene.2021.642282](https://www.frontiersin.org/articles/10.3389/fgene.2021.642282/full)
  
-### Preprints and Theses
+### Theses
 
 - (PhD Thesis) Advances in cluster-correlated data analysis when cluster size is informative.
 - (Masters Thesis) Statistical Process Control Charts for Monitoring Big Data Streams.
