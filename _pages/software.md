@@ -18,3 +18,6 @@ A suite of programs for the bioinformatics pre-processing and downstream analysi
 
 ### mspack2
 `R` [package](https://github.com/samuelanyaso/mspack2) for estimating several temporal functions (e.g. state occupation probabilities) for current-status data from of a general multistate model. The code estimates the SOP for the setting where the current-status data is either uncorrelated or cluster-correlated. The vignette for this package is avaiable [here](https://github.com/samuelanyaso/mspack2/blob/master/mspack2_vignette.pdf).
+
+### GFBioNet
+`R` [package](https://github.com/samuelanyaso/GFBioNet) to learn a network for biological traits via Gaussian graphical modeling and maps genomic factors regulating specific edges using node-wise regression. It reports *trait–trait–factor* triplets with robust false-discovery control, even under strong predictor correlation.
