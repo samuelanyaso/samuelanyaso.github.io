@@ -7,8 +7,9 @@ author_profile: true
 
 ### Publications
 
-- Wei, Z., Zhang, T., ..., **Anyaso-Samuel S.**, ..., Shi, J., Landi, M. A prognostic signature for lung adenocarcinoma in people who have never smoked. Accepted at *Cancer Discovery*.
-- **Anyaso-Samuel S.**, Datta S., Roos E., Nevalainen J. Can the unit size predict outcomes? Testing for informativeness in three-level designs. *Statistics in Medicine*, (in print), (2025).
+- McElderry, J., Zhang, T., Zhao, W., Hoang, P., **Anyaso-Samuel, S.**, ..., Landi, M. Comprehensive microbiome analysis of 940 lung cancers in never-smokers. *Accepted at Nature Communications*.
+- Wei, Z., Zhang, T., ..., **Anyaso-Samuel S.**, ..., Shi, J., Landi, M. A prognostic signature for lung adenocarcinoma in people who have never smoked. *Accepted at Cancer Discovery*.
+- **Anyaso-Samuel S.**, Datta S., Roos E., Nevalainen J. Can the unit size predict outcomes? Testing for informativeness in three-level designs. *Statistics in Medicine*, (in print), 44(6), p.e70041, (2025).
 - **Anyaso-Samuel S.**, and Datta S. Testing for marginal covariate effect when the subgroup size induced by the covariate is informative. *Statistical Methods in Medical Research*, 33(7):1264–1277, (2024).
 - Sarkar S., **Anyaso-Samuel S.**, Qiu P., and Datta S. Multiblock Partial Least Squares and Rank Aggregation: Applications to Detection of Bacteriophages Associated with Antimicrobial Resistance in the Presence of Potential Confounding Factors. *Statistics in Medicine*, 43(13):2527–2546, (2024).
 - Leinen M., Grandy E., ..., **Anyaso-Samuel S.**, Datta S., and Schiefer M. Bilateral Subdiaphragmatic Vagal Nerve Stimulation Using a Novel Waveform Decreases Body Weight, Food Consumption, Adiposity, and Activity in Obesity-Prone Rats. *Obesity Surgery*, 34(1):1–14, (2024).
