@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Testimony"
+title: ""
 permalink: /testimony2/
 author_profile: true
 ---
