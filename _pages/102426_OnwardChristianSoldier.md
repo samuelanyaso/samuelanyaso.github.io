@@ -1,5 +1,7 @@
 # Onward Christian Soldier: Brothers in Arms
 
+*October 24, 2026*
+
 > “We then who are strong ought to bear with the scruples of the weak, and not to please ourselves” (Rom. 15:1).
 
 Peradventure, you have come to know victory over a particular challenge; it could be a sin that you once struggled with, a weight that easily beset you, or a request that appeared so distant. In such moments, you were wise to follow the regimental principles of the faith, waging war against such a challenge with the whole armor of God. Each passing tour of duty brought you closer to conquest, and eventually you conquered the foe, crushing his head under your feet. Now, by God's mercy, you have entered your desired haven, and you bask in the milk and honey flowing through the land.
