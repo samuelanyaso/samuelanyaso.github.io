@@ -1,3 +1,9 @@
+---
+layout: archive
+title: ""
+permalink: /102426_OnwardChristianSoldier/
+---
+
 # Onward Christian Soldier: Brothers in Arms
 
 *October 24, 2026*
